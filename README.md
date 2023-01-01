@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm I Kadek Nanda Sanjaya</h1>
 <h3 align="center">A passionate fullstack web and mobile app developer from Indonesia</h3>
-
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207](https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikadeknandasanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="ikadeknandasanjaya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikadeknandasanjaya" alt="ikadeknandasanjaya" /></a> </p>
