@@ -1,4 +1,4 @@
-[![MasterHead](https://developer.android.com/static/images/social/android-developers.png?hl=id)
+[![MasterHead](![image](https://user-images.githubusercontent.com/112923574/210162976-ffb88c0c-7407-4da7-89c3-f80b58ec592b.png))
 <h1 align="center">Hi 👋, I'm I Kadek Nanda Sanjaya</h1>
 <h3 align="center">A passionate fullstack web and mobile app developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif"/>
