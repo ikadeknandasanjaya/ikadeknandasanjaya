@@ -1,4 +1,4 @@
-[![MasterHead](https://www.tech-recipes.com/wp-content/uploads/2020/03/android-developers.png)]
+![MasterHead](https://www.tech-recipes.com/wp-content/uploads/2020/03/android-developers.png)
 <h1 align="center">Hi 👋, I'm I Kadek Nanda Sanjaya</h1>
 <h3 align="center">A passionate fullstack web and mobile app developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif"/>
