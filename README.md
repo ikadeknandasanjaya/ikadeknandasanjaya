@@ -1,4 +1,3 @@
-![MasterHead](https://www.tech-recipes.com/wp-content/uploads/2020/03/android-developers.png)
 <h1 align="center">Hi 👋, I'm I Kadek Nanda Sanjaya</h1>
 <h3 align="center">A passionate fullstack web and mobile app developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif"/>
@@ -9,11 +8,7 @@
 
 - 🔭 I’m currently study on [Technology Information](Udayana University)
 
-- 🌱 I’m currently learning **Web and Mobile App Project**
-
-- 👯 I’m looking to collaborate on **Web and Mobile App Project**
-
-- 🤝 I’m looking for help with **Web and Mobile App Project**
+- 🌱 I’m currently learning **Web**
 
 - 👨‍💻 All of my projects are available at [https://nandasanjaya.netlify.app/](https://nandasanjaya.netlify.app/)
 
